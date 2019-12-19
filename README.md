@@ -1,6 +1,6 @@
 # Open Energy Data
 
-A list of energy-related open datasets provided as [Simple Data Format Data Packages](http://dataprotocols.readthedocs.io/en/latest/simple-data-format.html), compiled by [Opendata.ch](http://opendata.ch) in preparation for the [Open Energy Data Hackdays](https://opendata.ch/projects/energy-data-hackdays-2019/). The metadata was collected by us through web searches and public contributions, and is provided as "best effort", without any guarantee of correctness.
+A list of energy-related open datasets provided as [Simple Data Format Data Packages](http://solarmuri.ssl.berkeley.edu/~fisher/public/software/SDF/SDF_MANIFESTO.txt), compiled by [Opendata.ch](http://opendata.ch) in preparation for the [Open Energy Data Hackdays](https://opendata.ch/projects/energy-data-hackdays-2019/). The metadata was collected by us through web searches and public contributions, and is provided as "best effort", without any guarantee of correctness.
 
 To add new datasets or make modifications, please visit our [GitHub repository](https://github.com/schoolofdata-ch/energy-data) and contact us via Issues or Pull Request.
 
